@@ -17,4 +17,12 @@ Implementação do https://tabnews.com.br para o https://curso.dev
 11. Editar package.json > scripts > "dev": "next dev"
 12. npm run dev (11.1)
 13. Setup conta na Vercel
-14. Criar arquivo .editorconfig  
+14. Criar arquivo .editorconfig
+15. Instalar extensão EditorConfig
+16. Instalar o pacote do Prettier - npm install prettier -D (--save-dev)
+17. Criar lint:check no package.Vjson > scripts > "lint:check": "prettier --check ."
+18. Criar lint:check no package.Vjson > scripts > "lint:fix": "prettier --write ."
+19. Instalar extensão Prettier
+20. Settings > Formatter > Default Formatter > Selecionar Prettier
+21. Settings > Format on Save > On
+22. Settings > Auto Save > Off
