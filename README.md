@@ -26,3 +26,4 @@ Implementação do https://tabnews.com.br para o https://curso.dev
 20. Settings > Formatter > Default Formatter > Selecionar Prettier
 21. Settings > Format on Save > On
 22. Settings > Auto Save > Off
+23. Adicionar .prettierignore
