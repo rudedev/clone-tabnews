@@ -16,3 +16,5 @@ Implementação do https://tabnews.com.br para o https://curso.dev
 10. npm install react-dom@18.2.0
 11. Editar package.json > scripts > "dev": "next dev"
 12. npm run dev (11.1)
+13. Setup conta na Vercel
+14. Criar arquivo .editorconfig  
